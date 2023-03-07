@@ -1,0 +1,101 @@
+html{
+	background-image: url(judobackground.webp);
+ background-repeat: no-repeat;
+ background-size:cover;
+ background-position: center;
+background-attachment: fixed;
+
+}
+
+a:link{
+	font-family:Monda, sans-serif;
+   color:white;
+}
+
+a:visited{
+	font-family:Monda, sans-serif;
+ color:white;
+}
+
+p{
+	color: white;
+	font-family: "Nunito", sans-serif; 
+	font-size:20px;
+}
+
+ul{
+   list-style-type: none;
+   padding:0px;
+   margin:0px;
+   overflow:hidden;
+   background-color:#3b2bba;
+}
+
+li a{
+
+	float: left;
+	display:block;
+	color:white;
+	padding:10px 15px;
+	text-align: center;
+	text-decoration: none;
+	border-right:2px solid black;
+	min-width:60px;
+}
+
+li a:hover{
+	background-color: #5f4df0;
+
+
+}
+
+ol{
+	color: white;
+    font-family: "Nunito", sans-serif; 
+	font-size:20px;
+}
+
+h1{
+	color: orange;
+    font-family: "Martian Mono", sans-serif;
+    font-weight: "bold";
+    font size:23px;
+    text-shadow:0px 0px 5px white, 0px 0px 5px; 
+}
+
+h2{
+	color: orange;
+    font-family: "Martian Mono", sans-serif;
+    font-weight: "bold";
+}
+
+h3{
+	color: orange;
+    font-family: "Prata", sans-serif;
+    font-weight: "bold";
+}
+
+button{
+	font-size:15px;
+	font-family: "Alata", sans-serif;
+	border-style:outset;
+	border-width:3px;
+	border-color:#f76e2a;
+	size:20px;
+
+}
+
+img{
+	background-color: white;
+}
+
+img1{
+	float:right;
+}
+
+caca{
+
+	float:right;
+}
+
+
